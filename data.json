@@ -270,31 +270,6 @@
       "link": "/play/",
       "image": "/uploads/29ad6e8e1fc087f97738038aa420f4ea.svg",
       "image_alt": "18+"
-    },
-    {
-      "link": "https://responsiblegambling.org/",
-      "image": "/uploads/0b535bc7edadb208aa9a48d4388718df.svg",
-      "image_alt": "responsible gaming"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
-      "image_alt": "skrill"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/d02c7ab1de33229c4bd5f40fb84c2ba5.svg",
-      "image_alt": "maestro"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
-      "image_alt": "bitcoin"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
     }
   ],
   "Slots": [
@@ -379,10 +354,10 @@
       "question": "What is the minimum withdrawal amount at Crash Pirate Casino?"
     }
   ],
-  "_generated_at": "2026-10-05T12:57:02.534Z",
+  "_generated_at": "2026-10-05T15:20:38.889Z",
   "_version": "1.0.0",
   "html_head_alt": "crashpirate baner",
   "content_alt": "crashpirate slot",
-  "_last_deploy": "2026-10-05T12:57:03.095Z",
-  "_deploy_trigger": "7trra"
+  "_last_deploy": "2026-10-05T15:20:39.465Z",
+  "_deploy_trigger": "gcb6mk"
 }

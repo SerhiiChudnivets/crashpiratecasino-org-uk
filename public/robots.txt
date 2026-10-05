@@ -2,5 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://pandazinocasino.co.uk/sitemap.xml
-
+Sitemap: https://crashpiratecasino.org.uk/sitemap.xml

@@ -1,5 +1,5 @@
 {
-  "name": "Crash Pirate",
+  "name": "crashpiratecasino.org.uk",
   "site_name": "Crash Pirate Casino – Official Site UK",
   "html_head": "<link rel=\"canonical\" href=\"https://crashpiratecasino.org.uk/en-gb/\">\n<link rel=\"alternate\" href=\"https://crashpiratecasino.org.uk/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://crashpiratecasino.org.uk/en-gb/\" hreflang=\"en-GB\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Crash Pirate Casino – Official Site UK\">\n<meta property=\"og:description\" content=\"Play top games at Crash Pirate Casino UK! Claim extra spins on sign-up, enjoy instant £10 minimum withdrawals and robust security. Join now and start playing!\">\n<meta property=\"og:url\" content=\"crashpiratecasino.org.uk\">\n<meta property=\"og:site_name\" content=\"Crash Pirate\">\n<meta property=\"og:image\" content=\"https://crashpiratecasino.org.uk//uploads/d34bb17282901b4619f5187993ece2a2.webp\">",
   "url": "crashpiratecasino.org.uk",
@@ -354,10 +354,10 @@
       "question": "What is the minimum withdrawal amount at Crash Pirate Casino?"
     }
   ],
-  "_generated_at": "2026-10-05T15:34:50.900Z",
+  "_generated_at": "2026-10-06T13:14:47.027Z",
   "_version": "1.0.0",
   "html_head_alt": "crashpirate baner",
   "content_alt": "crashpirate slot",
-  "_last_deploy": "2026-10-05T15:34:52.470Z",
-  "_deploy_trigger": "dkhfz7"
+  "_last_deploy": "2026-10-06T13:14:47.640Z",
+  "_deploy_trigger": "v41s2n"
 }
